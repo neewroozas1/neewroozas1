@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Привет, я Александр (@neewroozas1)
 
-<!--
-**neewroozas1/neewroozas1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Инженер инфраструктуры | 🛠️ Автоматизация и скриптинг | 🌐 VPN / AD / PowerShell  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Немного обо мне
+- Работаю с **Windows Server, AD, VPN (Cisco/Kerio), WDS/PXE**  
+- Люблю **автоматизировать задачи** с помощью PowerShell и других инструментов  
+- Постепенно выкладываю свои тулкиты и полезные скрипты сюда  
+
+---
+
+### 📊 GitHub статистика
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=neewroozas1&show_icons=true&hide_title=true&hide=prs&count_private=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neewroozas1&layout=compact" />
+</p>
+
+---
+
+### 📎 Контакты
+- Telegram: **@your_telegram**  
+- Email: **you@example.com**  
+
+---
+✨ Если что-то из моего кода пригодилось — ⭐ звезда репозиторию очень поможет!
