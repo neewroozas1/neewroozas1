@@ -7,7 +7,7 @@
 <!-- Профиль README — Александр (neewroozas1) -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=800&center=true&vCenter=true&width=900&lines=Привет!+Я+Александр+(@neewroozas1);Инфраструктура+%7C+DevOps+%7C+PowerShell;AD+%7C+VPN+%7C+WDS+%7C+Автоматизация;Делаю+жизнь+айтишников+проще+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Добро+пожаловать+в+мой+GitHub;Я+Александр+(neewroozas1);Инфраструктура+%7C+DevOps+%7C+PowerShell" alt="Typing SVG" />
 </p>
 
 ---
