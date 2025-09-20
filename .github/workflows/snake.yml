@@ -1,14 +1,15 @@
 name: Generate snake
 
 on:
-  # раз в 12 часов
   schedule:
-    - cron: "0 */12 * * *"
-  # вручную можно запустить из Actions
-  workflow_dispatch:
-  # и при каждом пуше на main обновлять
+    - cron: "0 */12 * * *"   # каждые 12 часов
+  workflow_dispatch:          # возможность запустить вручную
   push:
-    branches: ["main"]
+    branches: ["main"]        # если у тебя default не main — поменяй тут!
+
+# ВАЖНО: даём токену право писать в репозиторий (иначе ветку output не создаст)
+permissions:
+  contents: write
 
 jobs:
   generate:
@@ -29,5 +30,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          commit_message: "chore: update snake"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
