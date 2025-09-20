@@ -20,7 +20,7 @@
 
 ## 🚀 Технологии и инструменты
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=powershell,windows,python,nodejs,git,github,vscode,docker" />
+  <img src="https://skillicons.dev/icons?i=powershell,windows,linux,python,nodejs,git,github,vscode,docker" />
 </p>
 
 ---
