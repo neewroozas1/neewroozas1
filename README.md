@@ -1,16 +1,14 @@
 # 👋 Привет, я Александр (@neewroozas1)
 
-💻 Системный администратор | 🛠️ Автоматизация и скриптинг | 🌐 VPN / AD / PowerShell  
+💻 Системный администратор | 🛠️ Автоматизация и scripts | 🌐 VPN / AD / PowerShell  
 
 ---
 
 <!-- Профиль README — Александр (neewroozas1) -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Добро+пожаловать+в+мой+GitHub;Я+Александр+(neewroozas1);Инфраструктура+%7C+DevOps+%7C+PowerShell" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1E90FF,100:8A2BE2&text=Александр%20%7C%20neewroozas1&fontSize=36&fontColor=ffffff&animation=twinkling&section=header"/>
 </p>
-
----
 
 ## 🧑‍💻 Немного обо мне  
 - ⚡ Системный администратор / L2–L3 support  
